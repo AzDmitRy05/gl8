@@ -1,0 +1,1 @@
+void checksum(char *message);
